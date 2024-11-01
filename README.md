@@ -11,13 +11,13 @@ SwiftUI Weather App is a sleek, user-friendly iOS application built using SwiftU
 - **Error Handling**: Comprehensive error handling ensures smooth operation, managing connectivity issues, API limitations, and unexpected errors gracefully.
   
 ## Screenshots
-![Light Mode]
-![Simulator Screenshot - iPhone 15 Pro - 2024-11-01 at 17 45 37](https://github.com/user-attachments/assets/2e5c9fbf-2cc4-43a6-901b-76b8ab32b523)
+[Light Mode]
 
+<img src="https://github.com/user-attachments/assets/2e5c9fbf-2cc4-43a6-901b-76b8ab32b523" alt="Simulator Screenshot" width="300"/>
 
-![Dark Mode]
-![Simulator Screenshot - iPhone 15 Pro - 2024-11-01 at 17 45 46](https://github.com/user-attachments/assets/5544ae6c-5f2f-4e70-ad00-313a071f1c80)
+[Dark Mode]
 
+<img src="https://github.com/user-attachments/assets/5544ae6c-5f2f-4e70-ad00-313a071f1c80" alt="Simulator Screenshot" width="300"/>
 
 ## Requirements
 
